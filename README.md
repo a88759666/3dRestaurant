@@ -1,6 +1,6 @@
 # Alphitter
 
-Portfolio
+3dRestaurant
 
 ## Getting Start
 
@@ -24,6 +24,7 @@ Portfolio
   * React Vite
   * Typescript
   * Tailwind樣式開發
+  * React Three Fiber
 
 ![screenshot](./src/assets/images/screenshot.png)
 
